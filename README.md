@@ -1,16 +1,53 @@
-## Hi there 👋
+# Ignacio Zitare
 
-<!--
-**ignaciozitare/ignaciozitare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Project Manager focused on technical delivery, distributed engineering teams and modern software workflows.
 
-Here are some ideas to get you started:
+Currently exploring **AI-assisted development** by building small applications and internal tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Barcelona, Spain
+
+---
+
+## What I'm working on
+
+I build small applications to better understand modern development workflows — from defining specs to deployment.
+
+Projects include tools for productivity, internal workflows and small utilities.
+
+---
+
+## Projects
+
+🔹 **Game Tracker**  
+Score tracking web application for UNO and Generala games.
+
+🔹 **Synalthera**  
+Environment booking tool for teams that share limited development environments.
+
+🔹 **EuroQAForge**  
+Generator and validator for European test ID numbers used in QA environments.
+
+🔹 **Jira Time Reporter**  
+Tool that extracts Jira worklogs and generates monthly time reports.
+
+---
+
+## Tech I'm experimenting with
+
+- Claude
+- Supabase
+- Vercel
+- GitHub
+
+---
+
+## Professional background
+
+Experienced **IT Project Manager** leading delivery across distributed engineering teams and coordinating complex technology initiatives across multiple industries.
+
+---
+
+## Connect
+
+LinkedIn  
+https://www.linkedin.com/in/ignacio-zitare
