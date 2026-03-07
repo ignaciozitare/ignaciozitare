@@ -27,8 +27,8 @@ Environment booking tool for teams that share limited development environments.
 🔹 **EuroQAForge**  
 Generator and validator for European test ID numbers used in QA environments.
 
-🔹 **Jira Time Reporter**  
-Tool that extracts Jira worklogs and generates monthly time reports.
+🔹 **WorkSuite**  
+Tool that extracts Jira worklogs and generates monthly time reports and perform hot desk reservations.
 
 ---
 
