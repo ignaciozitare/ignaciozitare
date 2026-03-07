@@ -18,17 +18,21 @@ Projects include tools for productivity, internal workflows and small utilities.
 
 ## Projects
 
-🔹 **Game Tracker**  
-Score tracking web application for UNO and Generala games.
-
 🔹 **Synalthera**  
-Environment booking tool for teams that share limited development environments.
+Environment booking tool for teams that share limited development environments.  
+[Live Demo](https://synalthera-with-db.vercel.app/)
 
 🔹 **EuroQAForge**  
-Generator and validator for European test ID numbers used in QA environments.
+Generator and validator for European test ID numbers used in QA environments.  
+[Live Demo](https://euro-qa-forge.vercel.app/)
 
 🔹 **WorkSuite**  
-Tool that extracts Jira worklogs and generates monthly time reports and perform hot desk reservations.
+Tool that extracts Jira worklogs and generates monthly time reports and performs hot desk reservations.  
+[Hotdesk PoC](https://hot-desk-taupe.vercel.app/)
+
+🔹 **Game Tracker**  
+Score tracking web application for UNO and Generala games.  
+[Live Demo](https://game-tracker-jet.vercel.app/)
 
 ---
 
@@ -49,5 +53,4 @@ Experienced **IT Project Manager** leading delivery across distributed engineeri
 
 ## Connect
 
-LinkedIn  
-https://www.linkedin.com/in/ignacio-zitare
+[LinkedIn](https://www.linkedin.com/in/ignacio-zitare)
