@@ -18,16 +18,12 @@ Projects include tools for productivity, internal workflows and small utilities.
 
 ## Projects
 
-🔹 **Synalthera**  
-Environment booking tool for teams that share limited development environments.  
-[Live Demo](https://synalthera-with-db.vercel.app/)
-
 🔹 **EuroQAForge**  
 Generator and validator for European test ID numbers used in QA environments.  
 [Live Demo](https://euro-qa-forge.vercel.app/)
 
 🔹 **WorkSuite**  
-Tool that extracts Jira worklogs and generates monthly time reports and performs hot desk reservations.  
+[WIP] Tool that extracts Jira worklogs and generates monthly time reports and performs hot desk reservations.  
 [Hotdesk PoC](https://hot-desk-taupe.vercel.app/)
 
 🔹 **Game Tracker**  
